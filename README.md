@@ -16,7 +16,7 @@ Un jeu tactique où fruits et légumes s’affrontent dans le potager !
 - Combattre l’équipe adverse dans un **combat stratégique**
 - Utiliser judicieusement les attaques spéciales de chaque personnage !
 
-Chaque personnage possède des  **caractéristiques uniques** (points de vie, défense, vitesse...) et  ** une attaque spéciale unique**. 
+Chaque personnage possède des  **caractéristiques uniques** (points de vie, défense, vitesse...) et  **une attaque spéciale unique**. 
 ---
 
 ## ⚙️ Instructions
