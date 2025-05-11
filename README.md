@@ -26,7 +26,7 @@ Chaque personnage possède des  **caractéristiques uniques** (points de vie, d�
 
 2. **Compile le jeu** avec la commande suivante :
    ```bash
-    make
+    smake
 3. **Execute le jeu** avec la commande suivante :
    ```bash
 ./exec 
