@@ -29,5 +29,5 @@ Chaque personnage possède des  **caractéristiques uniques** (points de vie, d�
    make
 3. **Execute le jeu** avec la commande suivante :
    ```bash
-./exec 
+    ./exec 
 
