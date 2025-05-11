@@ -11,7 +11,7 @@ Un jeu tactique où fruits et légumes s’affrontent dans le potager !
 
 ## 🎮 Description
 
-**SALADE DE FRUIT LÉGUME COMBAT : LA REVANCHE DES VÉGÉTAUX** est un jeu **à deux joueurs** ou **contre l’ordinateur** où tu dois :
+**SDF LCL RDV** est un jeu **à deux joueurs** ou **contre l’ordinateur** où tu dois :
 - Créer une équipe de fruits ou de légumes
 - Combattre l’équipe adverse dans un **combat stratégique**
 - Utiliser judicieusement les attaques spéciales de chaque personnage !
